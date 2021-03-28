@@ -1,0 +1,20 @@
+---
+dependencies:
+  - sbalandine.php
+
+galaxy_info:
+  role_name: php-mysql
+  author: sbalandine
+  description: PHP MySQL support for RHEL/CentOS.
+  company: "Midwestern Mac, LLC"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.4
+  platforms:
+    - name: EL
+      versions:
+        - all
+  galaxy_tags:
+    - database
+    - web
+    - mysql
+    - php
