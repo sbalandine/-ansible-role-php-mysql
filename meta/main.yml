@@ -1,6 +1,6 @@
 ---
 dependencies:
-  - sbalandine.php
+  - php
 
 galaxy_info:
   role_name: php-mysql
